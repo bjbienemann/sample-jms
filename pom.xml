@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         
-        <activemq-broker.version>5.15.12</activemq-broker.version>
+        <activemq-broker.version>5.15.16</activemq-broker.version>
     </properties>
 
     <dependencies>
